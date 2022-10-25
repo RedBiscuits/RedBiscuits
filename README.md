@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redbiscuits" alt="redbiscuits" /></a> </p>
 
-- 🔭 I’m currently working on [Location Reminder app](https://github.com/RedBiscuits/MCIT-egFWD-Project3-LocationReminder)
+- 🔭 I’m currently working on [FCIS Operating System](https://github.com/RedBiscuits/FCIS-Operating-System)
 
-- 🌱 I’m currently learning **Android and Flutter advanced topics, Udacity's Advanced Android scholarship and starting my freelancing career.**
-
-- 👯 I’m looking to collaborate on [Nasa's Quiz app](https://github.com/RedBiscuits/NASAQuizApp)
+- 🌱 I’m currently learning **USB bridging, Operating Systems, Networks -HCIA- and Business analysis.**
 
 - 🤝 I’m looking for help with [Movies app](https://github.com/RedBiscuits/MoviesApp)
 
