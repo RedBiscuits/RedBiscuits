@@ -25,11 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yousef elkammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef elkammar" height="30" width="40" /></a>
-<a href="https://fb.com/yousef a. elkmmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" height="30" width="40" /></a>
-<a href="https://instagram.com/yousef a. elkmmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousef a. elkmmar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yousef elkammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" height="30" width="40" /></a>
-<a href="https://discord.gg/Yousef Elkammar#6508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yousef Elkammar#6508" height="30" width="40" /></a>
+<a href="linkedin.com/in/yousef-elkammar-b88a36220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef elkammar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009358505598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/YousefElkammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
