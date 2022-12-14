@@ -25,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(linkedin.com/in/yousef-elkammar-b88a36220/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef elkammar" height="30" width="40" /></a>
-<a href="(https://www.facebook.com/profile.php?id=100009358505598)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" height="30" width="40" /></a>
-<a href="(https://codeforces.com/profile/YousefElkammar)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" height="30" width="40" /></a>
+<a href="(linkedin.com/in/yousef-elkammar-b88a36220/)" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef elkammar" height="30" width="40" /></a>
+<a href="(https://www.facebook.com/profile.php?id=100009358505598)" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" height="30" width="40" /></a>
+<a href="(https://codeforces.com/profile/YousefElkammar)" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
