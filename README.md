@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redbiscuits" alt="redbiscuits" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Laravel]
+- 🔭 I’m currently working on **Laravel Projects**
 
 - 🌱 I’m currently learning **Back-end Development.**
 
