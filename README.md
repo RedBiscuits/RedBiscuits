@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redbiscuits" alt="redbiscuits" /></a> </p>
 
-- 🔭 I’m currently working on [FCIS Operating System](https://github.com/RedBiscuits/FCIS-Operating-System)
+- 🔭 I’m currently working on [Learning Laravel]
 
-- 🌱 I’m currently learning **USB bridging, Operating Systems, Networks -HCIA- and Business analysis.**
+- 🌱 I’m currently learning **Back-end Development.**
 
-- 🤝 I’m looking for help with [Movies app](https://github.com/RedBiscuits/MoviesApp)
+- 🤝 I’m looking for help with [Deploying projects]
 
 - 👨‍💻 All of my projects are available at [https://github.com/RedBiscuits?tab=repositories](https://github.com/RedBiscuits?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yousef-elkammar-b88a36220/](https://www.linkedin.com/in/yousef-elkammar-b88a36220/)
 
-- 💬 Ask me about **Android, Flutter and UI/UX**
+- 💬 Ask me about **Android, Back-end(Laravel), Flutter and UI/UX**
 
 - 📫 How to reach me **yousefabdelhamed113@gmail.com**
 
@@ -25,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(linkedin.com/in/yousef-elkammar-b88a36220/)" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef elkammar" height="30" width="40" /></a>
-<a href="(https://www.facebook.com/profile.php?id=100009358505598)" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" height="30" width="40" /></a>
-<a href="(https://codeforces.com/profile/YousefElkammar)" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" height="30" width="40" /></a>
+<a href="linkedin.com/in/yousef-elkammar-b88a36220/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef elkammar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009358505598" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/YousefElkammar" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
