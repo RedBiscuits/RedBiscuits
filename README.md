@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redbiscuits" alt="redbiscuits" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel Projects**
+- 🔭 I’m currently working on **Full-Stack Projects**
 
 - 🌱 I’m currently learning **Back-end Development.**
 
-- 🤝 I’m looking for help with [Deploying projects]
+- 🤝 I’m looking for help with **MSP-Android Special committee**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RedBiscuits?tab=repositories](https://github.com/RedBiscuits?tab=repositories)
 
@@ -25,9 +25,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef elkammar" height="30" width="40"><a href="linkedin.com/in/yousef-elkammar-b88a36220/" target="_blank" rel="noreferrer"/> </img>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" height="30" width="40" ><a href="https://www.facebook.com/profile.php?id=100009358505598" target="_blank" rel="noreferrer" /></img>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" height="30" width="40"> <a href="https://codeforces.com/profile/YousefElkammar" target="_blank" rel="noreferrer" /></img>
+<a href="https://linkedin.com/in/yousef-elkammar-b88a36220/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="30">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100009358505598">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef a. elkmmar" width="40" height="30">
+</a>
+
+<a href="https://codeforces.com/profile/YousefElkammar">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef elkammar" width="40" height="30">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
