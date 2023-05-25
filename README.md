@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redbiscuits" alt="redbiscuits" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack Projects**
+- 🔭 I’m currently a **Backend Engineer @7p & Entrepreneur trying to make my startup.**
 
-- 🌱 I’m currently learning **Back-end Development.**
+- 🌱 I’m currently learning **DevOps & master backend engieneering.**
 
-- 🤝 I’m looking for help with **MSP-Android Special committee**
+- 🤝 I’m looking for help with **Some front-end projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RedBiscuits?tab=repositories](https://github.com/RedBiscuits?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yousef-elkammar-b88a36220/](https://www.linkedin.com/in/yousef-elkammar-b88a36220/)
 
-- 💬 Ask me about **Android, Back-end(Laravel), Flutter and UI/UX**
+- 💬 Ask me about **Android, Back-end(Laravel), Flutter, DevOps and UI/UX**
 
 - 📫 How to reach me **yousefabdelhamed113@gmail.com**
 
