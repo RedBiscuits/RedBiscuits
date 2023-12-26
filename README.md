@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redbiscuits" alt="redbiscuits" /></a> </p>
 
-- 🔭 I’m currently a **Backend Engineer @7p & Entrepreneur trying to make my startup.**
+- 🔭 I’m currently a **Backend Engineer, Crypto Enthusistic & Entrepreneur trying to make my way out.**
 
-- 🌱 I’m currently learning **DevOps & master backend engieneering.**
+- 🌱 I’m currently learning **how to master backend, problem solving and Stocks.**
 
-- 🤝 I’m looking for help with **Some front-end projects**
+- 🤝 I’m looking for help with **Bitcoin chart, i am dying here tbh**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RedBiscuits?tab=repositories](https://github.com/RedBiscuits?tab=repositories)
+- 👨‍💻 Most of my projects are available at [https://github.com/RedBiscuits?tab=repositories](https://github.com/RedBiscuits?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yousef-elkammar-b88a36220/](https://www.linkedin.com/in/yousef-elkammar-b88a36220/)
 
